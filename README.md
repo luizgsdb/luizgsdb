@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Luiz
 
-<!--
-**luizgsdb/luizgsdb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer @ 100 Contas. I build end-to-end TypeScript products — web, mobile and APIs — and I like connecting code to product and business.
 
-Here are some ideas to get you started:
+**Stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Front-end:** React, Next.js, Vite, Tailwind, shadcn/ui, TanStack Query, React Hook Form, Zod
+- **Back-end:** Node.js, NestJS, Fastify, Express
+- **Data:** PostgreSQL, Prisma, Drizzle, Supabase, Neon
+- **Testing & CI:** Vitest, Playwright, GitHub Actions
+- **Cloud & infra:** Docker, AWS, Vercel, Railway
+- **AI:** Gemini, Claude API, Whisper, n8n
+
+**About**
+
+Background in Financial Management, currently studying Systems Analysis & Development. I also bring experience leading projects and operations.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/luizgdsb/)
